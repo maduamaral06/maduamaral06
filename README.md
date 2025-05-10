@@ -21,7 +21,7 @@ Tenho experiência com:
 
 ### 🔗 Conecte-se comigo
 
-[![LinkedIn](https://www.linkedin.com/in/maria-eduarda-cará-amaral-72aa1b347/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-cará-amaral-72aa1b347/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maduamaral2006@gmail.com)
 
 ---
