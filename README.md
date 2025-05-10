@@ -15,7 +15,7 @@ Tenho experiência com:
 
 ### 🌱 Projetos e Experiências
 
--   🎓 **TCC de Sinalização de Alagamento:** Desenvolvi um Trabalho de Conclusão de Curso sobre um sistema de sinalização de alagamentos (disponível em https://github.com/ecotecxs/Vigiachuva2).
+-   🎓 **TCC de Sinalização de Alagamento:** Desenvolvi um Trabalho de Conclusão de Curso sobre um sistema de sinalização de alagamentos (disponível em https://github.com/ecotecxs).
 
 ---
 
