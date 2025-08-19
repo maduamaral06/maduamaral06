@@ -7,9 +7,9 @@ Sou uma aspirante a desenvolvedor em busca de uma oportunidade de estágio para 
 
 Tenho experiência com:
 
--   **Linguagens:** C#, JavaScript, HTML, CSS, PHP
+-   **Linguagens:** C#, JavaScript, HTML, CSS, PHP, C++
 -   **Banco de Dados:** MySQL
--   **Em aprendizado:** C++
+-   **Em aprendizado:** UI/UX
 
 ---
 
