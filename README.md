@@ -16,7 +16,7 @@ Tenho experiência com:
 ### 🌱 Projetos e Experiências
 
 -   🎓 **TCC de Sinalização de Alagamento:** Desenvolvi um Trabalho de Conclusão de Curso sobre um sistema de sinalização de alagamentos (disponível em https://github.com/ecotecxs).
--   💜 **Projeto AdaCode:** Estou desenvolvendoum projeto que consiste em um repositório de cursos para integrar mulhreres na área da Técnologia (disponível em https://github.com/AdaCodeDev).
+-   💜 **Projeto AdaCode:** Estou desenvolvendo um projeto que consiste em um repositório de cursos para integrar mulhreres na área da Técnologia (disponível em https://github.com/AdaCodeDev).
 
 ---
 
