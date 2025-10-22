@@ -1,5 +1,5 @@
 ### Olá! 👋 Eu sou Maria Eduarda Amaral
-Sou uma aspirante a desenvolvedor em busca de uma oportunidade de estágio para aplicar e aprimorar minhas habilidades. Atualmente, estou focado no aprendizado de C++ e aprofundando meus conhecimentos em PHP.
+Sou uma aspirante a desenvolvedor em busca de uma oportunidade de estágio para aplicar e aprimorar minhas habilidades. Atualmente, estou focado no aprendizado de Phyton e aprofundando meus conhecimentos em PHP.
 
 ---
 
@@ -9,13 +9,14 @@ Tenho experiência com:
 
 -   **Linguagens:** C#, JavaScript, HTML, CSS, PHP, C++
 -   **Banco de Dados:** MySQL
--   **Em aprendizado:** UI/UX
+-   **Em aprendizado:** UI/UX, Phyton
 
 ---
 
 ### 🌱 Projetos e Experiências
 
 -   🎓 **TCC de Sinalização de Alagamento:** Desenvolvi um Trabalho de Conclusão de Curso sobre um sistema de sinalização de alagamentos (disponível em https://github.com/ecotecxs).
+-   💜 **Projeto AdaCode:** Estou desenvolvendoum projeto que consiste em um repositório de cursos para integrar mulhreres na área da Técnologia (disponível em https://github.com/AdaCodeDev).
 
 ---
 
